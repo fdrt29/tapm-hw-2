@@ -3,7 +3,7 @@
 
 int main(){
 std::string user;
-std::cin>>user; // input username
+std::cin>>user; // ввод имя пользователя
 std::cout<<"Hello world from"<<user<<std::endl;
 return 0;
 }
